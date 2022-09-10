@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Aliyaj Ahemad</h1>
+<h1 align="center">Hi 👋, I'm Aliyaj Ahemad</h1>
 <h3 align="center">Starting my new journey in programming world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliyajahemad&label=Profile%20views&color=0e75b6&style=flat" alt="aliyajahemad" /> </p>
